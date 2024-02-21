@@ -1,0 +1,22 @@
+{
+	"name": "@packtrack/director",
+	"scripts": {
+		"build": "tsc",
+		"start": "tsc && environment node .built/index.js"
+	},
+	"environment": {
+		"layout": {
+			"fileLocation": "Layout File Location"
+		}
+	},
+	"dependencies": {
+		"@packtrack/layout": "^1.0.0",
+		"@packtrack/protocol": "^1.0.1",
+		"xmldom": "^0.6.0"
+	},
+	"devDependencies": {
+		"@acryps/environment": "^2.7.2",
+		"@types/node": "^20.11.9",
+		"typescript": "^5.3.3"
+	}
+}
