@@ -1,5 +1,9 @@
 {
 	"name": "@packtrack/director",
+	"type": "module",
+	"main": ".built/index.js",
+	"typings": ".built/index.d.ts",
+	"sideEffects": false,
 	"scripts": {
 		"build": "tsc",
 		"start": "tsc && environment node .built/index.js"
