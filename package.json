@@ -1,26 +1,31 @@
 {
 	"name": "@packtrack/director",
-	"type": "module",
+	"version": "0.0.0",
 	"main": ".built/index.js",
 	"typings": ".built/index.d.ts",
 	"sideEffects": false,
 	"scripts": {
-		"build": "tsc",
-		"start": "tsc && environment node .built/index.js"
+		"build": "esbuild source/index.ts --bundle --platform=node --outfile=.built/index.js",
+		"start": "npm run build && environment node .built/index.js"
 	},
 	"environment": {
 		"layout": {
 			"fileLocation": "Layout File Location"
+		},
+		"trainIndex": {
+			"fileLocation": "Train Index File Location"
 		}
 	},
 	"dependencies": {
-		"@packtrack/layout": "^1.0.0",
-		"@packtrack/protocol": "^1.0.1",
+		"@packtrack/layout": "^1.3.2",
+		"@packtrack/protocol": "^1.2.0",
+		"@packtrack/train": "^1.2.0",
+		"@types/node": "^22.13.14",
+		"esbuild": "^0.25.1",
 		"xmldom": "^0.6.0"
 	},
 	"devDependencies": {
 		"@acryps/environment": "^2.7.2",
-		"@types/node": "^20.11.9",
 		"typescript": "^5.3.3"
 	}
 }

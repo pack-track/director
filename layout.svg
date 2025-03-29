@@ -1,0 +1,1586 @@
+<svg width="100vw" height="100vh" viewBox="0 0 27 30" xmlns="http://www.w3.org/2000/svg">
+			<style>
+
+				path {
+					fill: none;
+					stroke: #000;
+					stroke-width: 0.2;
+				}
+
+			</style>
+
+			<g id="fiddle-yard-east.kalkbreite.com">
+
+
+
+
+			<g id="northbound.fiddle-yard-east.kalkbreite.com">
+
+			<g id="south-loop-2_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#south-loop-2_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(1.7707964601769914deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 21 25.5, L 20 25.5" />
+            <text x="20" y="25" font-size="0.2">south-loop-2</text>
+
+            <path d="M 20 25.5, L 19 25.5" />
+
+
+            <path d="M 19 25.5, L 18 25.5" />
+
+
+            <path d="M 18 25.5, L 17 25.5" />
+
+
+            <path d="M 17 25.5, L 16.5 25.5, L 16 26" />
+
+
+            <path d="M 16 26, L 15.5 26.5, L 15.5 27" />
+
+
+            <path d="M 15.5 27, L 15.5 28" />
+
+
+            <path d="M 15.5 28, L 15.5 28.5, L 16 29" />
+
+
+            <path d="M 16 29, L 16.5 29.5, L 17 29.5" />
+
+
+            <path d="M 17 29.5, L 18 29.5" />
+
+
+            <path d="M 18 29.5, L 18.5 29.5" />
+
+
+			</g>
+
+			<g id="loop-halifax-a-merge-buffer_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#loop-halifax-a-merge-buffer_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(20.01deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 18.5 29.5, L 19 29.5" />
+            <text x="18" y="29" font-size="0.2">loop-halifax-a-merge-buffer</text>
+
+            <path d="M 19 29.5, L 19.5 29.5" />
+
+
+			</g>
+
+			<g id="stem-south_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(11.943227848101268deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 19.5 29.5, L 20 29.5" />
+            <text x="19" y="29" font-size="0.2">stem-south</text>
+
+            <path d="M 20 29.5, L 21 29.5" />
+
+
+            <path d="M 21 29.5, L 22 29.5" />
+
+
+            <path d="M 22 29.5, L 23 29.5" />
+
+
+            <path d="M 23 29.5, L 24 29.5" />
+
+
+            <path d="M 24 29.5, L 24.5 29.5, L 25 29" />
+
+
+            <path d="M 25 29, L 25.5 28.5, L 26 28" />
+
+
+            <path d="M 26 28, L 26.5 27.5, L 26.5 27" />
+
+
+            <path d="M 26.5 27, L 26.5 26.5, L 26.5 26" />
+
+
+            <path d="M 26.5 26, L 26.5 25.5, L 26.5 25" />
+
+
+            <path d="M 26.5 25, L 26.5 24.5, L 26.5 24" />
+
+
+            <path d="M 26.5 24, L 26.5 23.5, L 26.5 23" />
+
+
+            <path d="M 26.5 23, L 26.5 22.5, L 26.5 22" />
+
+
+            <path d="M 26.5 22, L 26.5 21.5, L 26.5 21" />
+
+
+            <path d="M 26.5 21, L 26.5 20.5, L 26.5 20" />
+
+
+            <path d="M 26.5 20, L 26.5 19.5" />
+
+
+			</g>
+
+			<g id="stem-south-branch-1-1_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-branch-1-1_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(5.0025deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 26.5 19.5, L 26.5 19" />
+            <text x="26" y="19" font-size="0.2">stem-south-branch-1-1</text>
+
+            <path d="M 26.5 19, L 26.5 18.5, L 26.5 18" />
+
+
+            <path d="M 26.5 18, L 26.5 17.5" />
+
+
+			</g>
+
+			<g id="stem-south-branch-1-2_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-branch-1-2_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(7.146428571428572deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 26.5 17.5, L 26 17" />
+            <text x="26" y="17" font-size="0.2">stem-south-branch-1-2</text>
+
+            <path d="M 26 17, L 25.5 16.5" />
+
+
+			</g>
+
+			<g id="storage-1_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-1_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(24.50763636363636deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 26.5 17.5, L 26.5 17" />
+            <text x="26" y="17" font-size="0.2">storage-1</text>
+
+            <path d="M 26.5 17, L 26.5 16.5, L 26.5 16" />
+
+
+            <path d="M 26.5 16, L 26.5 15.5, L 26.5 15" />
+
+
+            <path d="M 26.5 15, L 26.5 14.5, L 26.5 14" />
+
+
+            <path d="M 26.5 14, L 26.5 13.5, L 26.5 13" />
+
+
+            <path d="M 26.5 13, L 26.5 12.5, L 26.5 12" />
+
+
+            <path d="M 26.5 12, L 26.5 11.5, L 26.5 11" />
+
+
+            <path d="M 26.5 11, L 26.5 10.5, L 26.5 10" />
+
+
+            <path d="M 26.5 10, L 26.5 9.5, L 26.5 9" />
+
+
+            <path d="M 26.5 9, L 26.5 8.5, L 26.5 8" />
+
+
+            <path d="M 26.5 8, L 26.5 7.5, L 26.5 7" />
+
+
+            <path d="M 26.5 7, L 26.5 6.5, L 26 6" />
+
+
+            <path d="M 26 6, L 25.5 5.5, L 25 5" />
+
+
+            <path d="M 25 5, L 24.5 4.5, L 24 4" />
+
+
+            <path d="M 24 4, L 23.5 3.5, L 23 3" />
+
+
+            <path d="M 23 3, L 22.5 2.5, L 22 2" />
+
+
+            <path d="M 22 2, L 21.5 1.5, L 21 1.5" />
+
+
+            <path d="M 21 1.5, L 20 1.5" />
+
+
+            <path d="M 20 1.5, L 19 1.5" />
+
+
+            <path d="M 19 1.5, L 18 1.5" />
+
+
+            <path d="M 18 1.5, L 17 1.5" />
+
+
+            <path d="M 17 1.5, L 16 1.5" />
+
+
+            <path d="M 16 1.5, L 15 1.5" />
+
+
+            <path d="M 15 1.5, L 14 1.5" />
+
+
+            <path d="M 14 1.5, L 13 1.5" />
+
+
+            <path d="M 13 1.5, L 12 1.5" />
+
+
+            <path d="M 12 1.5, L 11 1.5" />
+
+
+            <path d="M 11 1.5, L 10 1.5" />
+
+
+            <path d="M 10 1.5, L 9 1.5" />
+
+
+            <path d="M 9 1.5, L 8 1.5" />
+
+
+            <path d="M 8 1.5, L 7 1.5" />
+
+
+            <path d="M 7 1.5, L 6.5 1.5" />
+
+
+			</g>
+
+			<g id="storage-2_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-2_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(25.491deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 25.5 16.5, L 25.5 16" />
+            <text x="25" y="16" font-size="0.2">storage-2</text>
+
+            <path d="M 25.5 16, L 25.5 15.5, L 25.5 15" />
+
+
+            <path d="M 25.5 15, L 25.5 14.5, L 25.5 14" />
+
+
+            <path d="M 25.5 14, L 25.5 13.5, L 25.5 13" />
+
+
+            <path d="M 25.5 13, L 25.5 12.5, L 25.5 12" />
+
+
+            <path d="M 25.5 12, L 25.5 11.5, L 25.5 11" />
+
+
+            <path d="M 25.5 11, L 25.5 10.5, L 25.5 10" />
+
+
+            <path d="M 25.5 10, L 25.5 9.5, L 25.5 9" />
+
+
+            <path d="M 25.5 9, L 25.5 8.5, L 25.5 8" />
+
+
+            <path d="M 25.5 8, L 25.5 7.5, L 25.5 7" />
+
+
+            <path d="M 25.5 7, L 25.5 6.5, L 25 6" />
+
+
+            <path d="M 25 6, L 24.5 5.5, L 24 5" />
+
+
+            <path d="M 24 5, L 23.5 4.5, L 23 4" />
+
+
+            <path d="M 23 4, L 22.5 3.5, L 22 3" />
+
+
+            <path d="M 22 3, L 21.5 2.5, L 21 2.5" />
+
+
+            <path d="M 21 2.5, L 20 2.5" />
+
+
+            <path d="M 20 2.5, L 19 2.5" />
+
+
+            <path d="M 19 2.5, L 18 2.5" />
+
+
+            <path d="M 18 2.5, L 17 2.5" />
+
+
+            <path d="M 17 2.5, L 16 2.5" />
+
+
+            <path d="M 16 2.5, L 15 2.5" />
+
+
+            <path d="M 15 2.5, L 14 2.5" />
+
+
+            <path d="M 14 2.5, L 13 2.5" />
+
+
+            <path d="M 13 2.5, L 12 2.5" />
+
+
+            <path d="M 12 2.5, L 11 2.5" />
+
+
+            <path d="M 11 2.5, L 10 2.5" />
+
+
+            <path d="M 10 2.5, L 9 2.5" />
+
+
+            <path d="M 9 2.5, L 8 2.5" />
+
+
+            <path d="M 8 2.5, L 7.5 2.5, L 7 2" />
+
+
+            <path d="M 7 2, L 6.5 1.5" />
+
+
+			</g>
+
+			<g id="storage-3_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-3_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(28.185343511450384deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 24.5 15.5, L 24.5 15" />
+            <text x="24" y="15" font-size="0.2">storage-3</text>
+
+            <path d="M 24.5 15, L 24.5 14.5, L 24.5 14" />
+
+
+            <path d="M 24.5 14, L 24.5 13.5, L 24.5 13" />
+
+
+            <path d="M 24.5 13, L 24.5 12.5, L 24.5 12" />
+
+
+            <path d="M 24.5 12, L 24.5 11.5, L 24.5 11" />
+
+
+            <path d="M 24.5 11, L 24.5 10.5, L 24.5 10" />
+
+
+            <path d="M 24.5 10, L 24.5 9.5, L 24.5 9" />
+
+
+            <path d="M 24.5 9, L 24.5 8.5, L 24.5 8" />
+
+
+            <path d="M 24.5 8, L 24.5 7.5, L 24.5 7" />
+
+
+            <path d="M 24.5 7, L 24.5 6.5, L 24 6" />
+
+
+            <path d="M 24 6, L 23.5 5.5, L 23 5" />
+
+
+            <path d="M 23 5, L 22.5 4.5, L 22 4" />
+
+
+            <path d="M 22 4, L 21.5 3.5, L 21 3.5" />
+
+
+            <path d="M 21 3.5, L 20 3.5" />
+
+
+            <path d="M 20 3.5, L 19 3.5" />
+
+
+            <path d="M 19 3.5, L 18 3.5" />
+
+
+            <path d="M 18 3.5, L 17 3.5" />
+
+
+            <path d="M 17 3.5, L 16 3.5" />
+
+
+            <path d="M 16 3.5, L 15 3.5" />
+
+
+            <path d="M 15 3.5, L 14 3.5" />
+
+
+            <path d="M 14 3.5, L 13 3.5" />
+
+
+            <path d="M 13 3.5, L 12 3.5" />
+
+
+            <path d="M 12 3.5, L 11 3.5" />
+
+
+            <path d="M 11 3.5, L 10 3.5" />
+
+
+            <path d="M 10 3.5, L 9 3.5" />
+
+
+            <path d="M 9 3.5, L 8.5 3.5" />
+
+
+			</g>
+
+			<g id="storage-4_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-4_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(36.993125000000006deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 23.5 9.5, L 23.5 9" />
+            <text x="23" y="9" font-size="0.2">storage-4</text>
+
+            <path d="M 23.5 9, L 23.5 8.5, L 23.5 8" />
+
+
+            <path d="M 23.5 8, L 23.5 7.5, L 23.5 7" />
+
+
+            <path d="M 23.5 7, L 23.5 6.5, L 23 6" />
+
+
+            <path d="M 23 6, L 22.5 5.5, L 22 5" />
+
+
+            <path d="M 22 5, L 21.5 4.5, L 21 4.5" />
+
+
+            <path d="M 21 4.5, L 20 4.5" />
+
+
+            <path d="M 20 4.5, L 19 4.5" />
+
+
+            <path d="M 19 4.5, L 18 4.5" />
+
+
+            <path d="M 18 4.5, L 17 4.5" />
+
+
+            <path d="M 17 4.5, L 16 4.5" />
+
+
+            <path d="M 16 4.5, L 15 4.5" />
+
+
+            <path d="M 15 4.5, L 14 4.5" />
+
+
+            <path d="M 14 4.5, L 13 4.5" />
+
+
+            <path d="M 13 4.5, L 12 4.5" />
+
+
+            <path d="M 12 4.5, L 11 4.5" />
+
+
+            <path d="M 11 4.5, L 10 4.5" />
+
+
+            <path d="M 10 4.5, L 9.5 4.5, L 9 4" />
+
+
+            <path d="M 9 4, L 8.5 3.5" />
+
+
+			</g>
+
+			<g id="storage-5-6-buffer_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-5-6-buffer_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(17.55818181818182deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 22.5 8.5, L 22.5 8" />
+            <text x="22" y="8" font-size="0.2">storage-5-6-buffer</text>
+
+            <path d="M 22.5 8, L 22.5 7.5, L 22.5 7" />
+
+
+            <path d="M 22.5 7, L 22.5 6.5, L 22 6" />
+
+
+            <path d="M 22 6, L 21.5 5.5, L 21 5.5" />
+
+
+            <path d="M 21 5.5, L 20.5 5.5" />
+
+
+			</g>
+
+			<g id="storage-5_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-5_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(49.2275deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 20.5 5.5, L 20 5.5" />
+            <text x="20" y="5" font-size="0.2">storage-5</text>
+
+            <path d="M 20 5.5, L 19 5.5" />
+
+
+            <path d="M 19 5.5, L 18 5.5" />
+
+
+            <path d="M 18 5.5, L 17 5.5" />
+
+
+            <path d="M 17 5.5, L 16 5.5" />
+
+
+            <path d="M 16 5.5, L 15 5.5" />
+
+
+            <path d="M 15 5.5, L 14 5.5" />
+
+
+            <path d="M 14 5.5, L 13 5.5" />
+
+
+            <path d="M 13 5.5, L 12 5.5" />
+
+
+            <path d="M 12 5.5, L 11 5.5" />
+
+
+            <path d="M 11 5.5, L 10 5.5" />
+
+
+            <path d="M 10 5.5, L 9 5.5" />
+
+
+            <path d="M 9 5.5, L 8.5 5.5" />
+
+
+			</g>
+
+			<g id="storage-6_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-6_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(46.15757812500001deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 20.5 5.5, L 20 6" />
+            <text x="20" y="5" font-size="0.2">storage-6</text>
+
+            <path d="M 20 6, L 19.5 6.5, L 19 6.5" />
+
+
+            <path d="M 19 6.5, L 18 6.5" />
+
+
+            <path d="M 18 6.5, L 17 6.5" />
+
+
+            <path d="M 17 6.5, L 16 6.5" />
+
+
+            <path d="M 16 6.5, L 15 6.5" />
+
+
+            <path d="M 15 6.5, L 14 6.5" />
+
+
+            <path d="M 14 6.5, L 13 6.5" />
+
+
+            <path d="M 13 6.5, L 12 6.5" />
+
+
+            <path d="M 12 6.5, L 11 6.5" />
+
+
+            <path d="M 11 6.5, L 10 6.5" />
+
+
+            <path d="M 10 6.5, L 9.5 6.5, L 9 6" />
+
+
+            <path d="M 9 6, L 8.5 5.5" />
+
+
+			</g>
+
+			<g id="stem-south-buffer-2_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-buffer-2_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(14.292857142857144deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 25.5 16.5, L 25 16" />
+            <text x="25" y="16" font-size="0.2">stem-south-buffer-2</text>
+
+            <path d="M 25 16, L 24.5 15.5" />
+
+
+			</g>
+
+			<g id="stem-south-buffer-3_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-buffer-3_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(3.1265625deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 24.5 15.5, L 24 15" />
+            <text x="24" y="15" font-size="0.2">stem-south-buffer-3</text>
+
+            <path d="M 24 15, L 23.5 14.5, L 23.5 14" />
+
+
+            <path d="M 23.5 14, L 23.5 13.5, L 23.5 13" />
+
+
+            <path d="M 23.5 13, L 23.5 12.5, L 23.5 12" />
+
+
+            <path d="M 23.5 12, L 23.5 11.5, L 23.5 11" />
+
+
+            <path d="M 23.5 11, L 23.5 10.5, L 23.5 10" />
+
+
+            <path d="M 23.5 10, L 23.5 9.5" />
+
+
+			</g>
+
+			<g id="stem-south-buffer-4_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-buffer-4_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(14.292857142857144deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 23.5 9.5, L 23 9" />
+            <text x="23" y="9" font-size="0.2">stem-south-buffer-4</text>
+
+            <path d="M 23 9, L 22.5 8.5" />
+
+
+			</g>
+
+			<g id="stem-body_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-body_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(49.5705223880597deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 22.5 8.5, L 22 8" />
+            <text x="22" y="8" font-size="0.2">stem-body</text>
+
+            <path d="M 22 8, L 21.5 7.5, L 21 7.5" />
+
+
+            <path d="M 21 7.5, L 20 7.5" />
+
+
+            <path d="M 20 7.5, L 19 7.5" />
+
+
+            <path d="M 19 7.5, L 18 7.5" />
+
+
+            <path d="M 18 7.5, L 17 7.5" />
+
+
+            <path d="M 17 7.5, L 16 7.5" />
+
+
+            <path d="M 16 7.5, L 15 7.5" />
+
+
+            <path d="M 15 7.5, L 14 7.5" />
+
+
+            <path d="M 14 7.5, L 13 7.5" />
+
+
+            <path d="M 13 7.5, L 12 7.5" />
+
+
+            <path d="M 12 7.5, L 11 7.5" />
+
+
+            <path d="M 11 7.5, L 10 7.5" />
+
+
+            <path d="M 10 7.5, L 9.5 7.5" />
+
+
+			</g>
+
+			<g id="stem-north-passover_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-north-passover_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(11.548214285714288deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 9.5 7.5, L 9 7" />
+            <text x="9" y="7" font-size="0.2">stem-north-passover</text>
+
+            <path d="M 9 7, L 8.5 6.5, L 8 6" />
+
+
+            <path d="M 8 6, L 7.5 5.5, L 7 5" />
+
+
+            <path d="M 7 5, L 6.5 4.5, L 6 4" />
+
+
+            <path d="M 6 4, L 5.5 3.5, L 5 3" />
+
+
+            <path d="M 5 3, L 4.5 2.5, L 4 2" />
+
+
+            <path d="M 4 2, L 3.5 1.5" />
+
+
+			</g>
+
+			<g id="storage-merge-buffer-3-4_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-merge-buffer-3-4_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(15.051deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 8.5 3.5, L 8 3.5" />
+            <text x="8" y="3" font-size="0.2">storage-merge-buffer-3-4</text>
+
+            <path d="M 8 3.5, L 7 3.5" />
+
+
+            <path d="M 7 3.5, L 6.5 3.5" />
+
+
+			</g>
+
+			<g id="storage-merge-buffer-5-6_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-merge-buffer-5-6_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(16.12607142857143deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 8.5 5.5, L 8 5" />
+            <text x="8" y="5" font-size="0.2">storage-merge-buffer-5-6</text>
+
+            <path d="M 8 5, L 7.5 4.5, L 7 4" />
+
+
+            <path d="M 7 4, L 6.5 3.5" />
+
+
+			</g>
+
+			<g id="storage-merge-buffer-3-6_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-merge-buffer-3-6_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(12.86357142857143deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 6.5 3.5, L 6 3" />
+            <text x="6" y="3" font-size="0.2">storage-merge-buffer-3-6</text>
+
+            <path d="M 6 3, L 5.5 2.5, L 5 2" />
+
+
+            <path d="M 5 2, L 4.5 1.5" />
+
+
+			</g>
+
+			<g id="storage-merge-buffer-1-2_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-merge-buffer-1-2_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(21.1845deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 6.5 1.5, L 6 1.5" />
+            <text x="6" y="1" font-size="0.2">storage-merge-buffer-1-2</text>
+
+            <path d="M 6 1.5, L 5 1.5" />
+
+
+            <path d="M 5 1.5, L 4.5 1.5" />
+
+
+			</g>
+
+			<g id="storage-exit-buffer_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#storage-exit-buffer_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(20.01deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 4.5 1.5, L 4 1.5" />
+            <text x="4" y="1" font-size="0.2">storage-exit-buffer</text>
+
+            <path d="M 4 1.5, L 3.5 1.5" />
+
+
+			</g>
+
+			<g id="stem-north-1_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-north-1_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(9.847659574468084deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 3.5 1.5, L 3 1.5" />
+            <text x="3" y="1" font-size="0.2">stem-north-1</text>
+
+            <path d="M 3 1.5, L 2.5 1.5, L 2 2" />
+
+
+            <path d="M 2 2, L 1.5 2.5, L 1.5 3" />
+
+
+            <path d="M 1.5 3, L 1.5 4" />
+
+
+            <path d="M 1.5 4, L 1.5 5" />
+
+
+            <path d="M 1.5 5, L 1.5 6" />
+
+
+            <path d="M 1.5 6, L 1.5 7" />
+
+
+            <path d="M 1.5 7, L 1.5 8" />
+
+
+            <path d="M 1.5 8, L 1.5 9" />
+
+
+            <path d="M 1.5 9, L 1.5 9.5" />
+
+
+			</g>
+
+			<g id="stem-north-crossing-1_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-north-crossing-1_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(21.56357142857143deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 1.5 9.5, L 2 10" />
+            <text x="1" y="9" font-size="0.2">stem-north-crossing-1</text>
+
+            <path d="M 2 10, L 2.5 10.5" />
+
+
+			</g>
+
+			<g id="stem-north-crossing-2_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-north-crossing-2_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(7.146428571428572deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 2.5 10.5, L 3 11" />
+            <text x="2" y="10" font-size="0.2">stem-north-crossing-2</text>
+
+            <path d="M 3 11, L 3.5 11.5" />
+
+
+			</g>
+
+			<g id="stem-north-2_northbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-north-2_northbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(12.588636363636365deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 3.5 11.5, L 3.5 12" />
+            <text x="3" y="11" font-size="0.2">stem-north-2</text>
+
+            <path d="M 3.5 12, L 3.5 13" />
+
+
+            <path d="M 3.5 13, L 3.5 14" />
+
+
+            <path d="M 3.5 14, L 3.5 15" />
+
+
+            <path d="M 3.5 15, L 3.5 16" />
+
+
+            <path d="M 3.5 16, L 3.5 17" />
+
+
+            <path d="M 3.5 17, L 3.5 18" />
+
+
+            <path d="M 3.5 18, L 3.5 19" />
+
+
+            <path d="M 3.5 19, L 3.5 20" />
+
+
+            <path d="M 3.5 20, L 3.5 21" />
+
+
+            <path d="M 3.5 21, L 3.5 22" />
+
+
+            <path d="M 3.5 22, L 3.5 23" />
+
+
+            <path d="M 3.5 23, L 3.5 24" />
+
+
+            <path d="M 3.5 24, L 3.5 25" />
+
+
+            <path d="M 3.5 25, L 3.5 26" />
+
+
+            <path d="M 3.5 26, L 3.5 27" />
+
+
+            <path d="M 3.5 27, L 3.5 27.5, L 4 28" />
+
+
+            <path d="M 4 28, L 4.5 28.5, L 5 29" />
+
+
+            <path d="M 5 29, L 5.5 29.5, L 6 29.5" />
+
+
+            <path d="M 6 29.5, L 6.5 29.5" />
+
+
+			</g>
+
+
+
+			</g>
+
+			<g id="southbound.fiddle-yard-east.kalkbreite.com">
+
+			<g id="north-split-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#north-split-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(9.918000000000001deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 6.5 29.5, L 7 29.5" />
+            <text x="6" y="29" font-size="0.2">north-split-buffer</text>
+
+            <path d="M 7 29.5, L 8 29.5" />
+
+
+            <path d="M 8 29.5, L 9 29.5" />
+
+
+            <path d="M 9 29.5, L 9.5 29.5" />
+
+
+			</g>
+
+			<g id="loop_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#loop_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(43.66975609756098deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 9.5 29.5, L 10 29" />
+            <text x="9" y="29" font-size="0.2">loop</text>
+
+            <path d="M 10 29, L 10.5 28.5, L 11 28.5" />
+
+
+            <path d="M 11 28.5, L 11.5 28.5, L 12 28" />
+
+
+            <path d="M 12 28, L 12.5 27.5, L 12.5 27" />
+
+
+            <path d="M 12.5 27, L 12.5 26.5, L 12 26" />
+
+
+            <path d="M 12 26, L 11.5 25.5, L 11 25.5" />
+
+
+            <path d="M 11 25.5, L 10 25.5" />
+
+
+            <path d="M 10 25.5, L 9.5 25.5" />
+
+
+			</g>
+
+			<g id="loop-collector_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#loop-collector_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(28.58571428571429deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 10 25, L 9.5 25.5" />
+            <text x="9" y="25" font-size="0.2">loop-collector</text>
+
+			</g>
+
+			<g id="loop-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#loop-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(25.23deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 9.5 25.5, L 9 25.5" />
+            <text x="9" y="25" font-size="0.2">loop-buffer</text>
+
+            <path d="M 9 25.5, L 8.5 25.5, L 8 26" />
+
+
+            <path d="M 8 26, L 7.5 26.5" />
+
+
+			</g>
+
+			<g id="north-passage_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#north-passage_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(19.33061797752809deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 7.5 26.5, L 7 26.5" />
+            <text x="7" y="26" font-size="0.2">north-passage</text>
+
+            <path d="M 7 26.5, L 6.5 26.5, L 6 26" />
+
+
+            <path d="M 6 26, L 5.5 25.5, L 5.5 25" />
+
+
+            <path d="M 5.5 25, L 5.5 24.5, L 5.5 24" />
+
+
+            <path d="M 5.5 24, L 5.5 23.5, L 5.5 23" />
+
+
+            <path d="M 5.5 23, L 5.5 22.5, L 5.5 22" />
+
+
+            <path d="M 5.5 22, L 5.5 21.5, L 5.5 21" />
+
+
+            <path d="M 5.5 21, L 5.5 20.5, L 5.5 20" />
+
+
+            <path d="M 5.5 20, L 5.5 19.5, L 5.5 19" />
+
+
+            <path d="M 5.5 19, L 5.5 18.5, L 5.5 18" />
+
+
+            <path d="M 5.5 18, L 5.5 17.5, L 5.5 17" />
+
+
+            <path d="M 5.5 17, L 5.5 16.5, L 5.5 16" />
+
+
+            <path d="M 5.5 16, L 5.5 15.5, L 5.5 15" />
+
+
+            <path d="M 5.5 15, L 5.5 14.5, L 5.5 14" />
+
+
+            <path d="M 5.5 14, L 5.5 13.5, L 5.5 13" />
+
+
+            <path d="M 5.5 13, L 5.5 12.5, L 6 12" />
+
+
+            <path d="M 6 12, L 6.5 11.5, L 7 11.5" />
+
+
+            <path d="M 7 11.5, L 7.5 11.5" />
+
+
+			</g>
+
+			<g id="stem-branch-1-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-branch-1-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(10.719642857142858deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 7.5 11.5, L 8 12" />
+            <text x="7" y="11" font-size="0.2">stem-branch-1-buffer</text>
+
+            <path d="M 8 12, L 8.5 12.5, L 9 13" />
+
+
+            <path d="M 9 13, L 9.5 13.5" />
+
+
+			</g>
+
+			<g id="stem-adu-locomotive-merge-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-adu-locomotive-merge-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(19.699285714285715deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 9.5 13.5, L 10 14" />
+            <text x="9" y="13" font-size="0.2">stem-adu-locomotive-merge-buffer</text>
+
+            <path d="M 10 14, L 10.5 14.5, L 11 15" />
+
+
+            <path d="M 11 15, L 11.5 15.5" />
+
+
+			</g>
+
+			<g id="stem-body_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-body_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(57.65081632653062deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 11.5 15.5, L 12 16" />
+            <text x="11" y="15" font-size="0.2">stem-body</text>
+
+            <path d="M 12 16, L 12.5 16.5, L 13 16.5" />
+
+
+            <path d="M 13 16.5, L 14 16.5" />
+
+
+            <path d="M 14 16.5, L 15 16.5" />
+
+
+            <path d="M 15 16.5, L 16 16.5" />
+
+
+            <path d="M 16 16.5, L 17 16.5" />
+
+
+            <path d="M 17 16.5, L 18 16.5" />
+
+
+            <path d="M 18 16.5, L 19 16.5" />
+
+
+            <path d="M 19 16.5, L 19.5 16.5, L 20 16" />
+
+
+            <path d="M 20 16, L 20.5 15.5" />
+
+
+			</g>
+
+			<g id="stem-storage-5-merge-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-storage-5-merge-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(68.98375deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 20.5 15.5, L 21 15.5" />
+            <text x="20" y="15" font-size="0.2">stem-storage-5-merge-buffer</text>
+
+            <path d="M 21 15.5, L 21.5 16" />
+
+
+			</g>
+
+			<g id="stem-storage-merge-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-storage-merge-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(7.592727272727274deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 21.5 16, L 21.5 16.5, L 22 17" />
+            <text x="21" y="16" font-size="0.2">stem-storage-merge-buffer</text>
+
+            <path d="M 22 17, L 22.5 17.5, L 23 18" />
+
+
+            <path d="M 23 18, L 23.5 18.5" />
+
+
+			</g>
+
+			<g id="stem-south-buffer-1_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-buffer-1_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(16.69571428571429deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 23.5 18.5, L 24 19" />
+            <text x="23" y="18" font-size="0.2">stem-south-buffer-1</text>
+
+            <path d="M 24 19, L 24.5 19.5, L 25 20" />
+
+
+			</g>
+
+			<g id="stem-south-buffer-2_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-buffer-2_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(28.58571428571429deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 25 20, L 25.5 20.5" />
+            <text x="25" y="20" font-size="0.2">stem-south-buffer-2</text>
+
+			</g>
+
+			<g id="stem-south-2_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-2_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(16.35392857142857deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 25.5 20.5, L 25.5 21" />
+            <text x="25" y="20" font-size="0.2">stem-south-2</text>
+
+            <path d="M 25.5 21, L 25.5 22" />
+
+
+            <path d="M 25.5 22, L 25.5 23" />
+
+
+            <path d="M 25.5 23, L 25.5 24" />
+
+
+            <path d="M 25.5 24, L 25.5 25" />
+
+
+            <path d="M 25.5 25, L 25.5 26" />
+
+
+            <path d="M 25.5 26, L 25.5 26.5, L 25 27" />
+
+
+            <path d="M 25 27, L 24.5 27.5, L 24 27.5" />
+
+
+            <path d="M 24 27.5, L 23.5 27.5" />
+
+
+			</g>
+
+			<g id="stem-south-halifax-b-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-halifax-b-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(21.439285714285717deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 23.5 27.5, L 23 27" />
+            <text x="23" y="27" font-size="0.2">stem-south-halifax-b-buffer</text>
+
+            <path d="M 23 27, L 22.5 26.5" />
+
+
+			</g>
+
+			<g id="stem-south-reverse-buffer_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#stem-south-reverse-buffer_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(21.439285714285717deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 22.5 26.5, L 22 26" />
+            <text x="22" y="26" font-size="0.2">stem-south-reverse-buffer</text>
+
+            <path d="M 22 26, L 21.5 25.5" />
+
+
+			</g>
+
+			<g id="south-loop-1_southbound_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#south-loop-1_southbound_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(1015.812deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 21.5 25.5, L 21 25.5" />
+            <text x="21" y="25" font-size="0.2">south-loop-1</text>
+
+			</g>
+
+
+
+			</g>
+
+			<g id="automatic-distribution-unit.fiddle-yard-east.kalkbreite.com">
+
+			<g id="source_automatic-distribution-unit_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#source_automatic-distribution-unit_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(35.5521875deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 9.5 29.5, L 10 29.5" />
+            <text x="9" y="29" font-size="0.2">source</text>
+
+            <path d="M 10 29.5, L 11 29.5" />
+
+
+            <path d="M 11 29.5, L 11.5 29.5, L 12 29" />
+
+
+            <path d="M 12 29, L 12.5 28.5, L 13 28" />
+
+
+            <path d="M 13 28, L 13.5 27.5, L 13.5 27" />
+
+
+            <path d="M 13.5 27, L 13.5 26.5, L 13 26" />
+
+
+            <path d="M 13 26, L 12.5 25.5, L 12 25" />
+
+
+            <path d="M 12 25, L 11.5 24.5, L 11 24.5" />
+
+
+            <path d="M 11 24.5, L 10.5 24.5" />
+
+
+			</g>
+
+			<g id="loop-drain_automatic-distribution-unit_fiddle-yard-east_kalkbreite_com">
+				<style>
+
+					g#loop-drain_automatic-distribution-unit_fiddle-yard-east_kalkbreite_com path {
+						stroke: hsl(28.58571428571429deg, 100%, 50%);
+					}
+
+				</style>
+
+
+            <path d="M 10.5 24.5, L 10 25" />
+            <text x="10" y="24" font-size="0.2">loop-drain</text>
+
+			</g>
+
+
+
+			</g>
+
+			</g>
+
+			<g id="train">
+				<style>
+
+					g#train path {
+						stroke: blue;
+						stroke-dasharray: 0 0.7 7.3999999999999995;
+
+						start: 0.7;
+						end: 0.5;
+					}
+
+				</style>
+
+				<text x="25" y="20" font-size="1">
+					TRAIN
+				</text>
+
+				<path d="M 25.5 21, L 25.5 22, L 25.5 22, L 25.5 23, L 25.5 23, L 25.5 24, L 25.5 24, L 25.5 25, L 25.5 25, L 25.5 26, L 25.5 26, L 25.5 26.5, L 25 27, L 25 27, L 24.5 27.5, L 24 27.5, L 24 27.5, L 23.5 27.5, L 25 20, L 25.5 20.5" />
+			</g>
+		</svg>
